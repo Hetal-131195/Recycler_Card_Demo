@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Recycler_Card_Demo</string>
+    <string-array name="person_name">
+        <item>"Hetal Shah"</item>
+
+        <item>"Bhoomi Shah"</item>
+        <item>"Aditi Raval"</item>
+        <item>"Meghna Vaidya"</item>
+        <item>Nidhi Patel</item>
+        <item>Mayuree Lavdiya</item>
+    </string-array>
+    <string-array name="person_email">
+        <item>"hetalshah027@gmail.com"</item>
+
+        <item>"bdshah437@gmail.com"</item>
+        <item>"ravaladiti96@gmail.com"</item>
+        <item>"vaidyameghna26@gmail.com"</item>
+        <item>nidhipatel22494@gmail.com</item>
+        <item>lavdiyamayuree2@gmail.com</item>
+    </string-array>
+    <string-array name="person_contact">
+        <item>"7041764049"</item>
+
+        <item>"9173976990"</item>
+        <item>"9558987480"</item>
+        <item>"9428739620"</item>
+        <item>8141496822</item>
+        <item>9601453796</item>
+    </string-array>
+</resources>
